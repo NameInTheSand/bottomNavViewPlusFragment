@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2BotNav</string>
+    <string name="plus">plus</string>
+    <string name="binary">binary</string>
+    <string name= "decimal">decimal</string>
+    <string name="transform">transform to binary</string>
+    <string name="transform2">transform to decimal</string>
+    <string name="enter">Enter your number</string>
+    <string name="add">add</string>
+</resources>
